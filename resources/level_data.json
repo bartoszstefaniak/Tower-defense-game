@@ -1,0 +1,19 @@
+{
+    "LEVEL 1" : {
+        "waves": 20,
+        "health": 40,
+        "start_money": 100
+    },
+
+    "LEVEL 2" : {
+        "waves": 30,
+        "health": 30,
+        "start_money": 200
+    },
+
+    "LEVEL 3" : {
+        "waves": 50,
+        "health": 20,
+        "start_money": 300
+    }
+}
